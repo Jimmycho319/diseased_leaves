@@ -1,0 +1,5 @@
+# Ignore train images
+train/
+
+# Ignore overfitted models
+saved_models/overfitted_models/
